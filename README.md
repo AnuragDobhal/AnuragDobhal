@@ -1,7 +1,6 @@
-<img src="images/undraw_programming_2svr.svg">
+<a href="https://instagram.com/wikitech.io" target="blank"> <img src="images/undraw_programming_2svr.svg"></a>
 <h1 align="center">Hey there👋, I'm Anurag Dobhal</h1>
 <h3 align="center">Software Engineer | Developer | Programmer</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragdobhal&label=Profile%20views&color=0e75b6&style=flat" alt="anuragdobhal" /> </p>
 
 - 🔭 I’m currently working on **Something Big**
