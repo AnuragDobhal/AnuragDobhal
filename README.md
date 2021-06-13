@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AnuragDobhal/IMAGES/eab3c938e63dabb8648ddeb173152613db6f13d8/undraw_programming_2svr.svg?token=AR4JQ2JAZ4H3CTE5AWQ6EJTAYWAZW">
+<img src="images/undraw_programming_2svr.svg">
 <h1 align="center">Hey there👋, I'm Anurag Dobhal</h1>
 <h3 align="center">Software Engineer | Developer | Programmer</h3>
 
